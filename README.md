@@ -1,4 +1,4 @@
-# Welcome to Reflex!
+This is a simple chatapp that I use for running openai and local language models on my computers and phone.
 
 This is the base Reflex template - installed when you run `reflex init`.
 
