@@ -3,7 +3,7 @@
 from chatapp import styles
 
 # Import all the pages.
-from chatapp.pages import style
+from chatapp import style
 from chatapp.state import State
 
 import reflex as rx
